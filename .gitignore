@@ -1,0 +1,51 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environments
+.venv/
+backend/.venv/
+frontend/node_modules/
+
+# Environment Variables
+backend/.env
+frontend/.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+# Python Cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Database
+*.db
+*.sqlite3
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.next/
+frontend/.vite/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
