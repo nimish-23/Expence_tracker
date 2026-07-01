@@ -1,3 +1,13 @@
 fastapi
 uvicorn
+pydantic-settingsfastapi
+uvicorn
+pydantic
 pydantic-settings
+email-validator
+sqlalchemy
+alembic
+psycopg2-binary
+python-jose
+pwdlib
+python-dotenv
